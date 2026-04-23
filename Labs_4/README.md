@@ -73,4 +73,4 @@
 ### Скріншоти застосунку
 | Головна сторінка | Створення папки | Нова папка | Створення нового файлу | Зміна файлу | Інформація про файл | Видалення файлу |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Screen 1](/lab4/screenshots/screenshot1.jpg) | ![Screen 2](/lab4/screenshots/screenshot2.jpg) | ![Screen 3](/lab4/screenshots/screenshot3.jpg) | ![Screen 4](/lab4/screenshots/screenshot4.jpg) | ![Screen 5](/lab4/screenshots/screenshot5.jpg) | ![Screen 6](/lab4/screenshots/screenshot6.jpg) | ![Screen 7](/lab4/screenshots/screenshot7.jpg) |
+| ![Screen 1](screenshots/lab_4_1.jpg) | ![Screen 2](screenshots/lab_4_2.jpg) | ![Screen 3](screenshots/lab_4_3.jpg) | ![Screen 4](screenshots/lab_4_4.jpg) | ![Screen 5](screenshots/lab_4_5.jpg) | ![Screen 6](screenshots/lab_4_6.jpg) | ![Screen 7](screenshots/lab_4_7.jpg) |
